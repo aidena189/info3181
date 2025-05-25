@@ -2,7 +2,7 @@
   {
     "Brand": "ASUS",
     "ProductName": "ASUS ROG Strix Z790-E Gaming WiFi",
-    "GraphicName": "rog_strix_z790e.jpg",
+    "GraphicName": "header-pd.png",
     "CostPrice": "289.99",
     "MSRP": "379.99",
     "QtyOnHand": "25",
@@ -12,7 +12,7 @@
   {
     "Brand": "ASUS",
     "ProductName": "ASUS TUF Gaming F15 FX507",
-    "GraphicName": "tuf_fx507.jpg",
+    "GraphicName": "61mzqc3sS6L.jpg",
     "CostPrice": "799.00",
     "MSRP": "999.00",
     "QtyOnHand": "40",
@@ -22,7 +22,7 @@
   {
     "Brand": "ASUS",
     "ProductName": "ASUS ProArt Display PA278CV",
-    "GraphicName": "pa278cv.jpg",
+    "GraphicName": "fus_629974.jpg",
     "CostPrice": "349.00",
     "MSRP": "429.00",
     "QtyOnHand": "12",
@@ -32,7 +32,7 @@
   {
     "Brand": "ASUS",
     "ProductName": "ASUS ROG Gladius III Wireless",
-    "GraphicName": "gladius_iii.jpg",
+    "GraphicName": "51MWi-ZraSL._AC_UF894,1000_QL80_.jpg",
     "CostPrice": "85.00",
     "MSRP": "109.99",
     "QtyOnHand": "60",
@@ -42,7 +42,7 @@
   {
     "Brand": "ASUS",
     "ProductName": "ASUS ZenBook 14 OLED",
-    "GraphicName": "zenbook_14.jpg",
+    "GraphicName": "asus-zenbook-14-header.jpg",
     "CostPrice": "699.00",
     "MSRP": "849.00",
     "QtyOnHand": "18",
@@ -52,7 +52,7 @@
   {
     "Brand": "NVIDIA",
     "ProductName": "NVIDIA GeForce RTX 4080 Super",
-    "GraphicName": "rtx_4080_super.jpg",
+    "GraphicName": "geforce-rtx-4080-super-og-1200x630.jpg",
     "CostPrice": "999.99",
     "MSRP": "1199.99",
     "QtyOnHand": "30",
@@ -62,7 +62,7 @@
   {
     "Brand": "NVIDIA",
     "ProductName": "NVIDIA Shield TV Pro",
-    "GraphicName": "shield_tv_pro.jpg",
+    "GraphicName": "shield-tv-pro-300-m@2x.jpg",
     "CostPrice": "159.00",
     "MSRP": "199.99",
     "QtyOnHand": "50",
@@ -72,7 +72,7 @@
   {
     "Brand": "NVIDIA",
     "ProductName": "NVIDIA Jetson Orin Nano Dev Kit",
-    "GraphicName": "orin_nano_dev.jpg",
+    "GraphicName": "jetson_orin_nano.jpg",
     "CostPrice": "449.00",
     "MSRP": "499.00",
     "QtyOnHand": "8",
@@ -82,7 +82,7 @@
   {
     "Brand": "NVIDIA",
     "ProductName": "NVIDIA RTX A4000 Workstation GPU",
-    "GraphicName": "rtx_a4000.jpg",
+    "GraphicName": "NVIDIA-RTX-Ampere-RTX_A4000.jpg",
     "CostPrice": "899.00",
     "MSRP": "1099.00",
     "QtyOnHand": "5",
@@ -92,7 +92,7 @@
   {
     "Brand": "NVIDIA",
     "ProductName": "NVIDIA GeForce RTX 4070 Ti",
-    "GraphicName": "rtx_4070ti.jpg",
+    "GraphicName": "BP4YS2504070G589Y32.jpg",
     "CostPrice": "749.99",
     "MSRP": "849.99",
     "QtyOnHand": "22",
@@ -102,7 +102,7 @@
   {
     "Brand": "AMD",
     "ProductName": "AMD Ryzen 9 7950X3D",
-    "GraphicName": "ryzen_9_7950x3d.jpg",
+    "GraphicName": "2505503-ryzen-9-7900x3d.avif",
     "CostPrice": "599.00",
     "MSRP": "699.00",
     "QtyOnHand": "19",
@@ -112,7 +112,7 @@
   {
     "Brand": "AMD",
     "ProductName": "AMD Radeon RX 7900 XTX",
-    "GraphicName": "rx_7900_xtx.jpg",
+    "GraphicName": "Sapphire_AMD_Radeon_RX_7900_XTX.jpg",
     "CostPrice": "899.99",
     "MSRP": "999.99",
     "QtyOnHand": "14",
@@ -122,7 +122,7 @@
   {
     "Brand": "AMD",
     "ProductName": "AMD EPYC 9654P Server CPU",
-    "GraphicName": "epyc_9654p.jpg",
+    "GraphicName": "ee6f0a0c-9182-4fdc-985c-ed78d71be574.jpg",
     "CostPrice": "3999.00",
     "MSRP": "4799.00",
     "QtyOnHand": "2",
@@ -132,7 +132,7 @@
   {
     "Brand": "AMD",
     "ProductName": "AMD Ryzen 7 7800X3D",
-    "GraphicName": "ryzen_7_7800x3d.jpg",
+    "GraphicName": "2505503-ryzen-7-7800x3d.avif",
     "CostPrice": "449.00",
     "MSRP": "499.00",
     "QtyOnHand": "27",
@@ -142,7 +142,7 @@
   {
     "Brand": "AMD",
     "ProductName": "AMD Radeon RX 7600",
-    "GraphicName": "rx_7600.jpg",
+    "GraphicName": "2648997-amd-radeon-7600.avif",
     "CostPrice": "269.99",
     "MSRP": "299.99",
     "QtyOnHand": "35",
