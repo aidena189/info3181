@@ -1,12 +1,154 @@
 [
   {
+    "BrandId": "ASUS",
     "ProductName": "ASUS ROG Strix Z790-E Gaming WiFi",
     "GraphicName": "rog_strix_z790e.jpg",
     "CostPrice": 289.99,
     "MSRP": 379.99,
     "QtyOnHand": 25,
     "QtyOnBackOrder": 10,
-    "Description": "Premium Z790 chipset ATX motherboard with WiFi 6E, DDR5 support, and Aura Sync RGB.",
-    "Brand": "ASUS"
+    "Description": "Premium Z790 chipset ATX motherboard with WiFi 6E, DDR5 support, and Aura Sync RGB."
+  },
+  {
+    "BrandId": "ASUS",
+    "ProductName": "ASUS TUF Gaming F15 FX507",
+    "GraphicName": "tuf_fx507.jpg",
+    "CostPrice": 799.00,
+    "MSRP": 999.00,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 5,
+    "Description": "15.6-inch FHD 144Hz gaming laptop powered by Intel i7 and RTX 4060."
+  },
+  {
+    "BrandId": "ASUS",
+    "ProductName": "ASUS ProArt Display PA278CV",
+    "GraphicName": "pa278cv.jpg",
+    "CostPrice": 349.00,
+    "MSRP": 429.00,
+    "QtyOnHand": 12,
+    "QtyOnBackOrder": 3,
+    "Description": "Professional 27-inch WQHD IPS monitor with 100% sRGB and USB-C support."
+  },
+  {
+    "BrandId": "ASUS",
+    "ProductName": "ASUS ROG Gladius III Wireless",
+    "GraphicName": "gladius_iii.jpg",
+    "CostPrice": 85.00,
+    "MSRP": 109.99,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 0,
+    "Description": "High-performance ergonomic wireless gaming mouse with swappable switches."
+  },
+  {
+    "BrandId": "ASUS",
+    "ProductName": "ASUS ZenBook 14 OLED",
+    "GraphicName": "zenbook_14.jpg",
+    "CostPrice": 699.00,
+    "MSRP": 849.00,
+    "QtyOnHand": 18,
+    "QtyOnBackOrder": 7,
+    "Description": "Lightweight 14-inch OLED ultrabook with Ryzen 7 processor and 1TB SSD."
+  },
+
+  {
+    "BrandId": "NVIDIA",
+    "ProductName": "NVIDIA GeForce RTX 4080 Super",
+    "GraphicName": "rtx_4080_super.jpg",
+    "CostPrice": 999.99,
+    "MSRP": 1199.99,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 15,
+    "Description": "High-end GPU with DLSS 3.5, ray tracing, and 16GB GDDR6X memory."
+  },
+  {
+    "BrandId": "NVIDIA",
+    "ProductName": "NVIDIA Shield TV Pro",
+    "GraphicName": "shield_tv_pro.jpg",
+    "CostPrice": 159.00,
+    "MSRP": 199.99,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 0,
+    "Description": "4K HDR Android streaming media player with AI upscaling and Google Assistant."
+  },
+  {
+    "BrandId": "NVIDIA",
+    "ProductName": "NVIDIA Jetson Orin Nano Dev Kit",
+    "GraphicName": "orin_nano_dev.jpg",
+    "CostPrice": 449.00,
+    "MSRP": 499.00,
+    "QtyOnHand": 8,
+    "QtyOnBackOrder": 2,
+    "Description": "AI development kit for edge computing, robotics, and IoT applications."
+  },
+  {
+    "BrandId": "NVIDIA",
+    "ProductName": "NVIDIA RTX A4000 Workstation GPU",
+    "GraphicName": "rtx_a4000.jpg",
+    "CostPrice": 899.00,
+    "MSRP": 1099.00,
+    "QtyOnHand": 5,
+    "QtyOnBackOrder": 4,
+    "Description": "Professional-grade GPU designed for CAD, DCC, and data science workloads."
+  },
+  {
+    "BrandId": "NVIDIA",
+    "ProductName": "NVIDIA GeForce RTX 4070 Ti",
+    "GraphicName": "rtx_4070ti.jpg",
+    "CostPrice": 749.99,
+    "MSRP": 849.99,
+    "QtyOnHand": 22,
+    "QtyOnBackOrder": 6,
+    "Description": "Enthusiast-class graphics card optimized for 1440p and 4K gaming performance."
+  },
+
+  {
+    "BrandId": "AMD",
+    "ProductName": "AMD Ryzen 9 7950X3D",
+    "GraphicName": "ryzen_9_7950x3d.jpg",
+    "CostPrice": 599.00,
+    "MSRP": 699.00,
+    "QtyOnHand": 19,
+    "QtyOnBackOrder": 1,
+    "Description": "16-core, 32-thread AM5 processor with 3D V-Cache for top-tier gaming."
+  },
+  {
+    "BrandId": "AMD",
+    "ProductName": "AMD Radeon RX 7900 XTX",
+    "GraphicName": "rx_7900_xtx.jpg",
+    "CostPrice": 899.99,
+    "MSRP": 999.99,
+    "QtyOnHand": 14,
+    "QtyOnBackOrder": 5,
+    "Description": "Flagship RDNA 3 GPU with 24GB GDDR6 and advanced ray tracing support."
+  },
+  {
+    "BrandId": "AMD",
+    "ProductName": "AMD EPYC 9654P Server CPU",
+    "GraphicName": "epyc_9654p.jpg",
+    "CostPrice": 3999.00,
+    "MSRP": 4799.00,
+    "QtyOnHand": 2,
+    "QtyOnBackOrder": 0,
+    "Description": "96-core server-grade CPU designed for high-density cloud and enterprise systems."
+  },
+  {
+    "BrandId": "AMD",
+    "ProductName": "AMD Ryzen 7 7800X3D",
+    "GraphicName": "ryzen_7_7800x3d.jpg",
+    "CostPrice": 449.00,
+    "MSRP": 499.00,
+    "QtyOnHand": 27,
+    "QtyOnBackOrder": 3,
+    "Description": "High-performance gaming CPU with 3D V-Cache for competitive edge in FPS titles."
+  },
+  {
+    "BrandId": "AMD",
+    "ProductName": "AMD Radeon RX 7600",
+    "GraphicName": "rx_7600.jpg",
+    "CostPrice": 269.99,
+    "MSRP": 299.99,
+    "QtyOnHand": 35,
+    "QtyOnBackOrder": 0,
+    "Description": "Midrange graphics card for 1080p gaming with RDNA 3 architecture."
   }
 ]
