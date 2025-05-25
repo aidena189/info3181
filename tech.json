@@ -1,14 +1,12 @@
 [
   {
-    "Id": 1,
-    "Name": "Asus"
-  },
-  {
-    "Id": 2,
-    "Name": "NVIDIA"
-  },
-  {
-    "Id": 3,
-    "Name": "AMD"
+    "ProductName": "ASUS ROG Strix Z790-E Gaming WiFi",
+    "GraphicName": "rog_strix_z790e.jpg",
+    "CostPrice": 289.99,
+    "MSRP": 379.99,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 10,
+    "Description": "Premium Z790 chipset ATX motherboard with WiFi 6E, DDR5 support, and Aura Sync RGB.",
+    "Brand": "ASUS"
   }
 ]
