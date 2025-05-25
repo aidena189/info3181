@@ -49,7 +49,6 @@
     "QtyOnBackOrder": 7,
     "Description": "Lightweight 14-inch OLED ultrabook with Ryzen 7 processor and 1TB SSD."
   },
-
   {
     "Brand": "NVIDIA",
     "ProductName": "NVIDIA GeForce RTX 4080 Super",
@@ -100,7 +99,6 @@
     "QtyOnBackOrder": 6,
     "Description": "Enthusiast-class graphics card optimized for 1440p and 4K gaming performance."
   },
-
   {
     "Brand": "AMD",
     "ProductName": "AMD Ryzen 9 7950X3D",
